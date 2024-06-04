@@ -7,7 +7,7 @@
 
 📫 How to reach me **fypeih.developer@gmail.com**
 
-⚡ I want to be part of <img align="center" src="https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="filipe" /> team
+⚡ One of my goals is to work at <img align="center" src="https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="filipe" />
 
 <!--Profile Count Badge-->
 <p align="left">

@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Altyra Solutions](https://github.com/Altyrasolutionslda)
 
-- 🌱 I’m currently learning **Ruby**
-
 - 💬 Ask me about **Angular, React and PHP**
 
 - 📫 How to reach me **fypeih.developer@gmail.com**

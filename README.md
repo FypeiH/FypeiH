@@ -1,5 +1,5 @@
 <!-- Header Name -->
-# <span>ɪ'ᴍ ꜰɪʟɪᴘᴇ! ◝(ᵔᵕᵔ)◜</span>
+# <span>ʜᴇʟʟᴏ, ɪ'ᴍ ꜰɪʟɪᴘᴇ! ◝(ᵔᵕᵔ)◜</span>
 <span>*Fullstack Geek (Junior Developer)*</span>
 
 <!-- Introduction -->
@@ -173,7 +173,7 @@
     alt="fypeih"
   />
   &nbsp<img
-    src="https://github-readme-streak-stats.herokuapp.com?user=fypeih&theme=shadow-purple&border_radius=10&card_width=500&card_height=200"
+    src="https://github-readme-streak-stats.herokuapp.com?user=fypeih&theme=shadow-purple&card_width=500&card_height=200"
     alt="fypeih"
   />
 </p>

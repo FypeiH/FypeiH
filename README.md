@@ -1,57 +1,20 @@
-<h1 align="center">Hi, I'm Filipe 👋</h1>
-<h3 align="center">A Fullstack Geek</h3>
+<!-- Header Name -->
+# <span>ɪ'ᴍ ꜰɪʟɪᴘᴇ! ◝(ᵔᵕᵔ)◜</span>
+<span>*Fullstack Geek (Junior Developer)*</span>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=fypeih&label=Profile%20views&color=0e75b6&style=flat"
-    alt="fypeih"
-  />
-  <img
-    src="https://badges.strrl.dev/contributions/all/fypeih"
-    alt="All Contribuitions"
-  />
-  <img src="https://badges.strrl.dev/commits/all/fypeih" alt="All commits" />
-  <img
-    src="https://badges.strrl.dev/issues-and-prs/all/fypeih"
-    alt="Issues and PRs this month"
-  />
+<!-- Introduction -->
+🔭 Currently working at <img align="center" src="https://img.shields.io/badge/Altyra%20Solutions-00a19a?style=for-the-badge&logo=htmx&logoColor=white" alt="filipe bravo" />
+
+📫 How to reach me **fypeih.developer@gmail.com**
+
+⚡ I want to be part of <img align="center" src="https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="filipe" /> team
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FypeiH&label=Profile%20views&color=663399&style=for-the-badge&logo=star" alt="FypeiH"/>
 </p>
 
-- 🔭 Currently working at
-  <img
-        align="center"
-        src="https://img.shields.io/badge/Altyra%20Solutions-00a19a?style=for-the-badge&logo=htmx&logoColor=white"
-        alt="filipe bravo"
-      />
-
-- 📫 How to reach me **fypeih.developer@gmail.com**
-- ⚡ Fun fact **I want to be part of the**
-  <img
-    align="center"
-    src="https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"
-    alt="filipe bravo"
-      />
-  **team**
-
-<h2 align="center">Connect with me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/filipe bravo" target="blank"
-    >
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="filipe bravo"
-    />
-  </a>
-  <a href="https://discord.gg/9397" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white"
-      alt="9397"
-  /></a>
-</p>
-
-<h2 align="center">Skills and Tools</h2>
+<h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🛠️</h2> 
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
@@ -187,39 +150,52 @@
       alt="sql-server"
     />
   </a>
+  <a href="https://helpx.adobe.com/pt/xd/get-started.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=ff61f6"
+      alt="adobe-xd"
+    />
+  </a>
 
 </p>
 
-<h2 align="center">Git Graphs</h2>
-<p>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2> 
+<p align="center">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fypeih&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=fypeih&title_color=6f42c1&text_color=747474&icon_color=570182&border_color=570182&bg_color=ffffff00&show_icons=true&layout=compact"
     alt="fypeih"
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=fypeih&show_icons=true&theme=tokyonight&locale=en"
-    alt="fypeih"
-  />
-</p>
-
-<p>
+<p align="center">
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fypeih&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=fypeih&title_color=6f42c1&text_color=747474&icon_color=570182&border_color=570182&bg_color=ffffff00&show_icons=true"
+    alt="fypeih"
+  />
+  &nbsp<img
+    src="https://github-readme-streak-stats.herokuapp.com?user=fypeih&theme=shadow-purple&border_radius=10&card_width=500&card_height=200"
     alt="fypeih"
   />
 </p>
 
-<h2 align="center">Support</h2>
-<p>
+<h3 align="center"><strong>🤝 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🤝</strong></h3>
+<p align="center">
+  <a href="https://linkedin.com/in/filipe bravo" target="blank"
+    >
+    <img
+      src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="filipe bravo"
+    />
+  </a>
+  <a href="https://discord.gg/9397" target="blank"
+    ><img
+      src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white"
+      alt="9397"
+  /></a>
+</p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/fypeih">
     <img
-      align="left"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
       height="50"
       width="210"

@@ -18,7 +18,7 @@
 <h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🛠️</h2> 
 <p align="center">
   <!-- Frontend -->
-  <h3>Frontend</h3>
+  <h3>ꜰʀᴏɴᴛᴇɴᴅ ✨</h3>
   <p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
@@ -83,7 +83,7 @@
   </p>
 
   <!-- Backend -->
-  <h3>Backend</h3>
+  <h3>ʙᴀᴄᴋᴇɴᴅ 🚀</h3>
   <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
@@ -130,7 +130,7 @@
   </p>
 
   <!-- IDEs -->
-  <h3>IDEs</h3>
+  <h3>ɪᴅᴇꜱ 🖥️</h3>
   <p>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img
@@ -153,7 +153,7 @@
   </p>
 
   <!-- Design Tools -->
-  <h3>Design Tools</h3>
+  <h3>ᴅᴇꜱɪɢɴ ᴛᴏᴏʟꜱ 🎨</h3>
   <p>
     <a
       href="https://www.photoshop.com/en"
@@ -189,7 +189,7 @@
   </p>
 
   <!-- Version Control -->
-  <h3>Version Control</h3>
+  <h3>ᴠᴇʀꜱɪᴏɴ ᴄᴏɴᴛʀᴏʟ 📚</h3>
   <p>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
       <img

@@ -7,8 +7,6 @@
 
 📫 How to reach me **fypeih.developer@gmail.com**
 
-⚡ One of my goals is to work at <a href="https://www.riotgames.com"><img align="center" src="https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="filipe" /></a>
-
 <!-- Profile Count Badge -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=FypeiH&label=Profile%20views&color=663399&style=for-the-badge&logo=star" alt="FypeiH"/>

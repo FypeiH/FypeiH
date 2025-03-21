@@ -3,7 +3,7 @@
 <span>*Fullstack Geek (Junior Developer)*</span>
 
 <!-- Introduction -->
-🔭 Currently working at <a href="https://altyra.com"><img align="center" src="https://img.shields.io/badge/Altyra%20Solutions-00a19a?style=for-the-badge&logo=htmx&logoColor=white" alt="filipe bravo" /></a>
+<!-- 🔭 Currently working at <a href="https://altyra.com"><img align="center" src="https://img.shields.io/badge/Altyra%20Solutions-00a19a?style=for-the-badge&logo=htmx&logoColor=white" alt="filipe bravo" /></a> -->
 
 📫 How to reach me **fypeih.developer@gmail.com**
 
